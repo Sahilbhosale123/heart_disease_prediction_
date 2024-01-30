@@ -7,7 +7,8 @@ Heart disease is considered as one of the fatal diseases across the globe. From 
 
  
 
-Conclusion
+Conclusion : 
+
 We have successfully compared the accuracy of various machine learning algorithms . Random forest algorithm is the best algorithm which gives a great accuracy standard for producing the best estimation result .  
 
 
